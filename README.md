@@ -20,4 +20,5 @@ Bulky book is a web application that allows you to Create, Read, Update, and Del
 - Creating a database in Azure
 - Deploying to Azure
 
-
+### View the website here
+https://bulkybookwinapp.azurewebsites.net/
